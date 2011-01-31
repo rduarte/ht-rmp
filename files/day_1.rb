@@ -46,6 +46,8 @@ Awesome = Class.new
 
 # Solução do exercício 5
 #
+# Você pode definir novos métodos em um objeto.
+# Estes métodos são adicionados como métodos Singleton.
 #
 def new_method(object)
   def object.hello
